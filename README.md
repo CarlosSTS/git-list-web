@@ -10,8 +10,8 @@ A aplicação contém os seguintes módulos
 * Todos os dados são salvos no localStorage do navegador.
 
 ## páginas
-![Foto do App dashboard](https://github.com/CarlosSTS/GithubExplorer/blob/master/assets/dashboard.png)
-![Foto do App detalhe](https://github.com/CarlosSTS/GithubExplorer/blob/master/assets/detail.png)
+![Foto do App dashboard](https://github.com/CarlosSTS/GitList-web/blob/master/assets/dashboard.png)
+![Foto do App detalhe](https://github.com/CarlosSTS/GitList-web/blob/master/assets/detail.png)
 
 ## Testando
 RODANDO O PROJETO
