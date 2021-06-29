@@ -10,14 +10,13 @@ A aplicação contém os seguintes módulos
 * Todos os dados são salvos no localStorage do navegador.
 
 ## páginas
-![Foto da Aplicação ](https://github.com/CarlosSTS/GitList-web/blob/master/gifProject.gif)
+![Foto do App dashboard](https://github.com/CarlosSTS/GithubExplorer/blob/master/assets/dashboard.png)
+![Foto do App detalhe](https://github.com/CarlosSTS/GithubExplorer/blob/master/assets/detail.png)
 
 ## Testando
 RODANDO O PROJETO
 * yarn install=>  para instalar as  Dependências do projeto
 * yarn start => para inicializar o projeto
-
-****
 
 ## Feito por
 
