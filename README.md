@@ -9,6 +9,9 @@ A aplicação contém os seguintes módulos
 * Tela de detalhe para listar as Issues e detalhes adicionais do repositório
 * Todos os dados são salvos no localStorage do navegador.
 
+## Veja no LinkedIn
+* [Ir para o LinkedIn](https://www.linkedin.com/posts/carlos-ferreira-4b2ba219a_uma-aplica%C3%A7%C3%A3o-web-feita-em-reactjs-para-adiciona-activity-6764294755661713408-4Gd6)
+
 ## páginas
 ![Foto do App dashboard](https://github.com/CarlosSTS/GitList-web/blob/master/assets/dashboard.png)
 ![Foto do App detalhe](https://github.com/CarlosSTS/GitList-web/blob/master/assets/detail.png)
