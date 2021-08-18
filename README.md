@@ -1,5 +1,5 @@
 # GitList-web
-uma aplicação feito para adicionar e listar repositórios e Issues do Github  usando a API  REST do Github
+uma aplicação feito para adicionar e listar repositórios e Issues do Github  usando a API REST do Github
 
 ## módulos
 
@@ -18,12 +18,12 @@ A aplicação contém os seguintes módulos
 
 ## Testando
 RODANDO O PROJETO
-* yarn install=>  para instalar as  Dependências do projeto
+* yarn install => para instalar as Dependências do projeto
 * yarn start => para inicializar o projeto
 
 ## Feito por
 
 Carlos Ferreira
-* [github](https://www.github.com/CarlosSTS)
-* [email](mailto://carlossts826@gmail.com)
+* [Github](https://www.github.com/CarlosSTS)
+* [Email](mailto://carlossts826@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/carlos-ferreira-4b2ba219a/)
