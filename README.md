@@ -16,8 +16,8 @@ A aplicação contém os seguintes módulos
 ![Foto do App dashboard](https://github.com/CarlosSTS/GitList-web/blob/master/assets/dashboard.png)
 ![Foto do App detalhe](https://github.com/CarlosSTS/GitList-web/blob/master/assets/detail.png)
 
-## Testando
-RODANDO O PROJETO
+## FRONTEND
+RODANDO O PROJETO FRONTEND
 * yarn install => para instalar as Dependências do projeto
 * yarn start => para inicializar o projeto
 
