@@ -1,5 +1,5 @@
-# GitList-web
-uma aplicação feito para adicionar e listar repositórios e Issues do Github  usando a API REST do Github
+# git-list-web
+Uma aplicação feita para adicionar e listar repositórios e Issues do Github usando a API REST do Github
 
 ## módulos
 
